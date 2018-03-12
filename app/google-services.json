@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "536217079204",
+    "firebase_url": "https://fcmtesting-8039f.firebaseio.com",
+    "project_id": "fcmtesting-8039f",
+    "storage_bucket": "fcmtesting-8039f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536217079204:android:d91dabf8825f5421",
+        "android_client_info": {
+          "package_name": "com.example.rakesh.fcmpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536217079204-46t8943blpgs6umhard8t677rfgl2bmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg0TaA4JNKVmE2TSFW7KLkN2rQmfYDIR4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
