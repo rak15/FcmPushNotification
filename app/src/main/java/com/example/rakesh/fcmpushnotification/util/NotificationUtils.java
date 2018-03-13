@@ -202,7 +202,7 @@ public class NotificationUtils {
     }
 
     public static long getTimeMilliSec(String timeStamp) {
-        SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        SimpleDateFormat format = new SimpleDateFormat("yyyd-MM-dd HH:mm:ss");
         try {
             Date date = format.parse(timeStamp);
             return date.getTime();
